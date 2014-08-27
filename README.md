@@ -8,3 +8,5 @@ Some words added to first commit
 Words added to third commit
 
 Code from strgnm
+
+2nd Code line from strgnm
